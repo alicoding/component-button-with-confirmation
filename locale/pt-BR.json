@@ -1,5 +1,6 @@
 {
-    "ceci-button-with-confirmation": "Botão com conirmação",
+    "ceci-button-with-confirmation": "Botão com confirmação",
+    "ceci-button-with-confirmation/description": "Um botão que pergunta ao usuário antes de difundir.",
     "ceci-button-with-confirmation/attributes/label": "Clique e me confirme",
     "ceci-button-with-confirmation/attributes/label/label": "Rótulo",
     "ceci-button-with-confirmation/attributes/label/description": "Texto mostrado no botão.",
